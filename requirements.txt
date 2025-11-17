@@ -1,0 +1,15 @@
+# Python Threading Learning App - Requirements
+
+# Core dependencies (none - uses Python standard library only!)
+
+# Optional dependencies for specific examples:
+
+# For Example 12 (Qt QThread and Signals) and GUI Launcher
+# Choose one:
+# PyQt6>=6.4.0
+# OR
+# PySide6>=6.4.0
+
+# Development dependencies
+pytest>=7.0.0
+pytest-cov>=4.0.0
